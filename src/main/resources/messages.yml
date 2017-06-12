@@ -1,0 +1,9 @@
+maxHomes: "&4You cannot set more than&c {0} &4homes."
+invalidHomeName: "&4Invalid home name!"
+invalidHome: "&4Home &c{0} &4doesn''t exist!"
+homeSet: "&6Home set to current location."
+homeList: "&6Homes:&r {0}"
+setHomeUsage: ""
+loginTeleport: "&eYou were teleported back to spawn."
+
+  
